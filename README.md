@@ -10,9 +10,6 @@ Estou iniciando minha trilha de aprendizado no mundo DEV, onde iniciei minha Gra
 *   ✉️  You can contact me at [gtiuniasselvi.bruno@gmail.com](mailto:gtiuniasselvi.bruno@gmail.com)
 *   🧠  I'm learning AWS Cloud Pratictioner
 *   ⚡  Sou filho de Tony Starks.... hehehehehe brinks### Skills 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
                     
   ### Skills
 

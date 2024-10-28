@@ -9,7 +9,7 @@ Estou iniciando minha trilha de aprendizado no mundo DEV, onde iniciei minha Gra
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [gtiuniasselvi.bruno@gmail.com](mailto:gtiuniasselvi.bruno@gmail.com)
 *   🧠  I'm learning AWS Cloud Pratictioner
-*   ⚡  Sou filho de Tony Starks.... hehehehehe brinks
+*   ⚡  Gryffindor :lion:
                     
   ### Skills
 

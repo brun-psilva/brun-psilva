@@ -4,10 +4,10 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Inciando a carreira no mundo DEV
 --------------------------------
 
-Estou iniciando minha trilha de aprendizado no mundo DEV, onde iniciei minha Graduação em 2018, contudo foi necessário recalcular rota 😅. Retomei o estudos em 2023 e agora com foco total.
+Um Dev em aprendizado 😎.
 
 *   🌍  I'm based in Brazil
-*   ✉️  You can contact me at [gtiuniasselvi.bruno@gmail.com](mailto:gtiuniasselvi.bruno@gmail.com)
+*   ✉️  You can contact me at [bruno_silvap@outlook.com](mailto:bruno_silvap@outlook.com)
 *   🧠  I'm learning AWS Cloud Pratictioner
 *   ⚡  Gryffindor :lion:
                     

@@ -1,5 +1,5 @@
-Olá <img src="https://cdn-icons-gif.flaticon.com/13373/13373340.gif" alt="Descrição da Imagem" width="30" />
-Eu me chamo Bruno Pereira 😃 
+Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> 😃
+Eu me chamo Bruno Pereira!
 =====================================================================================================================================
 
 Inciando a carreira no mundo DEV

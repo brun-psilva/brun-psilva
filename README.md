@@ -1,28 +1,20 @@
-Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> 😃
-Eu me chamo Bruno Pereira!
-=====================================================================================================================================
+# Olá! 😃 Bem-vindo ao meu perfil  
 
-Inciando a carreira no mundo DEV
---------------------------------
+## Sobre mim  
+Meu nome é **Bruno Pereira**, e estou no início da minha jornada como desenvolvedor! 🚀 Sou apaixonado por tecnologia e sempre busco aprender algo novo para expandir meus conhecimentos.  
 
-Um Dev em aprendizado 😎.
+- 🌍 **Base**: Brasil 🇧🇷  
+- ✉️ **Contato**: [bruno_silvap@outlook.com](mailto:bruno_silvap@outlook.com)  
+- 🧠 **Aprendendo**: AWS Cloud Practitioner 🌩️  
+- ⚡ **Curiosidade**: Orgulhoso integrante da Grifinória! 🦁  
 
-*   🌍  I'm based in Brazil
-*   ✉️  You can contact me at [bruno_silvap@outlook.com](mailto:bruno_silvap@outlook.com)
-*   🧠  I'm learning AWS Cloud Pratictioner
-*   ⚡  Gryffindor :lion:
-                    
-  ### Skills
+### Conecte-se comigo:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brun-psilva)  
 
-<p align="left">
-<a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Java" /></a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/linux--v1.png" height="36" alt="Linux" /></a>
-</p>
+---
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/b_p_silvaaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/brunosillvaper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/brun-psilva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/bps.il" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bps.il/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+🌟 Sempre em busca de novos desafios e oportunidades! Vamos juntos? 😎  
 
 
 ### Badges

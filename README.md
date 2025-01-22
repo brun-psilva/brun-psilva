@@ -6,7 +6,6 @@ Meu nome é **Bruno Pereira**, e estou no início da minha jornada como desenvol
 - 🌍 **Base**: Brasil 🇧🇷  
 - ✉️ **Contato**: [bruno_silvap@outlook.com](mailto:bruno_silvap@outlook.com)  
 - 🧠 **Aprendendo**: AWS Cloud Practitioner 🌩️  
-- ⚡ **Curiosidade**: Orgulhoso integrante da Grifinória! 🦁  
 
 ### Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  

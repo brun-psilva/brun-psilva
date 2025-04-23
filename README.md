@@ -48,6 +48,11 @@ Apaixonado por tecnologia, estou sempre buscando aprender algo novo para expandi
 
 > Veja meus projetos fixados abaixo 👇
 
+
+📌 [Projeto Final](https://github.com/brun-psilva/brun-psilva/blame/main/README-Projeto-Final.md)
+
+📌 [Projeto WordPress](https://github.com/brun-psilva/Projeto-Compass-02)
+
 ---
 
 ### ☕ Obrigado por visitar! Vamos codar juntos? Me chama! 🚀

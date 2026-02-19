@@ -1,31 +1,22 @@
-```md
-<h1 align="center">⚡ brun-psilva ⚡</h1>
+# 👋 Fala, eu sou o Bruno
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=DevSecOps+Engineer;Cloud+Infrastructure;Automation+Addict;Security+Mindset" />
-</p>
+🚀 Cloud | DevSecOps | Infra as Code  
+✨ Automatizando tudo que é repetitivo  
+☁️ AWS | Docker | Kubernetes  
 
 ---
 
-## 🧠 TERMINAL
+## 📊 Estatísticas
 
-```bash
-> whoami
-Bruno Silva
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brun-psilva&show_icons=true&theme=tokyonight)
 
-> role
-Cloud | DevSecOps | Infrastructure
+---
 
-> focus
-Automation • Security • Scalability
+## 🐍 Contribution Snake
 
-> status
-Building secure systems in the dark.
-⚙️ STACK
-AWS • Docker • Kubernetes • Terraform • Linux • CI/CD
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake.svg">
+</picture>
 
-📊 SYSTEM METRICS
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=brun-psilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" /> <img height="170" src="https://streak-stats.demolab.com?user=brun-psilva&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" /> </p>
-🐍 ACTIVE SCAN
-<p align="center"> <img src="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake-dark.svg" /> </p>
-<p align="center"> <i>"Security is not a product. It's a mindset."</i> </p> ```

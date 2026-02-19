@@ -37,10 +37,13 @@ Apaixonado por tecnologia, estou sempre buscando aprender algo novo para expandi
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brun-psilva&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brun-psilva&layout=compact&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 

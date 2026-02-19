@@ -45,6 +45,7 @@ Apaixonado por tecnologia, estou sempre buscando aprender algo novo para expandi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 ---
 
 ## 📌 Repositórios em destaque

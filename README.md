@@ -34,7 +34,7 @@ Atualmente focado em criar infraestruturas resilientes, seguras e totalmente aut
 </div>
 
 ### 🐍 Atividade de Contribuições
-![Snake animation](https://github.com/brun-psilva/brun-psilva/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/brun-psilva/brun-psilva/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
